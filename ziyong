@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: Trojan, type: trojan, server: www.zardbest.eu.org, port: 3306, password: DHfqkA6uS5,skip-cert-verify: true}
+  - {name: Trojan, type: trojan, server: www.zardbest.eu.org, port: 3306, password: WmLTSl6GPb,skip-cert-verify: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
